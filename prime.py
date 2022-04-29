@@ -1,7 +1,7 @@
 
 
 # To take input from the user
-num = int(input("Enter a number: "))
+num = 29
 
 # define a flag variable
 flag = False
